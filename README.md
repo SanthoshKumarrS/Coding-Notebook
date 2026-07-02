@@ -164,19 +164,6 @@ For every week of the specialization, I followed this workflow:
 
 ---
 
-# 🚀 Next Learning Goals
-
-After completing this specialization, I plan to continue with:
-
-* Machine Learning
-* Deep Learning
-* Probability & Statistics
-* AI Engineering
-* Large Language Models (LLMs)
-* MLOps
-
----
-
 # ⭐ If You Find This Repository Helpful
 
 If this repository helps you in your learning journey, consider giving it a ⭐ on GitHub.
