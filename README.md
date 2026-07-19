@@ -24,9 +24,9 @@ Coding-Notebook/
 │   └── Dynamic Programming/
 │
 ├── LeetCode/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+    ├── Easy/
+    ├── Medium/
+    └── Hard/
 
 ```
 
