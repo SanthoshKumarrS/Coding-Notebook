@@ -40,8 +40,6 @@ Coding-Notebook/
 
 ## 🎯 Goal
 
-Improve problem-solving skills, strengthen Python fundamentals, and build a solid foundation for technical interviews and AI engineering.
+Improve problem-solving skills, strengthen Python fundamentals, & build a solid foundation for technical interviews and AI engineering.
 
 ---
-
-⭐ Feel free to explore the repository!
