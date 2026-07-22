@@ -14,11 +14,8 @@ def fizz_buzz(n):
             print('FizzBuzz')
         elif is_divide_by_three and not is_divide_by_five :
             print('Fizz')
-        elif is_divide_by_five and not is_divide_by_three:
-            print('Buzz')
-        else:
-            print(n)
-        return
 
 n = int(input())
 fizz_buzz(n)
+
+
