@@ -1,0 +1,27 @@
+{
+    "name": "Santhosh Kumar",
+    "age": 26,
+    "isStudent": false,
+    "phoneNumber": "9876543210",
+    "address": {
+        "street": "123 Anna Nagar",
+        "city": "Madurai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "pincode": 625020
+    },
+    "skills": [
+        {
+            "name": "Python",
+            "experience": 3
+        },
+        {
+            "name": "Machine Learning",
+            "experience": 2
+        },
+        {
+            "name": "Docker",
+            "experience": 1
+        }
+    ]
+}
