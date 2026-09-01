@@ -1,4 +1,4 @@
-import pytest,source.my_function as my_function
+import pytest,my_function as my_function
 
 
 def test_add():
@@ -22,3 +22,15 @@ def test_divide_by_zero():
 def test_add_strings():
     result = my_function.add("hello ", "world")
     assert result == "hello world"
+
+
+@pytest.mark.slow
+def test_very_slow():
+    pytest.skip("Skipping this test for now")
+
+
+@pytest.mark.skip(reason = "Skipping this test for now")
+def test_skip():
+    assert 1 == 1
+
+
